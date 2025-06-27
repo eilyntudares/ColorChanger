@@ -14,21 +14,6 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
 
 
-## App Brainstorming 
-
-### Favorite Apps & Features
-
-1. **Instagram**
-   - Swipe to switch between stories
-   - Easy photo editing filters
-
-2. **YouTube**
-   - Recommended video algorithm
-   - Picture-in-picture viewing
-
-3. **Duolingo**
-   - Gamified progress
-   - Daily streak motivation
 
 ### App Idea: MoodBoard
 
@@ -37,6 +22,4 @@ An app that allows users to log their mood each day with a color, short text, or
 ## Notes
 
 I had trouble at first connecting my storyboard button to the ViewController, but I fixed it by using Assistant and Control+Drag to link the action.
-
-## License
 
